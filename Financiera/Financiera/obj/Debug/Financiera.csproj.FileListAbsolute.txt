@@ -1,0 +1,7 @@
+C:\Users\grodriguez\source\repos\Financiera\Financiera\obj\Debug\Financiera.csprojAssemblyReference.cache
+C:\Users\grodriguez\source\repos\Financiera\Financiera\obj\Debug\Financiera.exe.config
+C:\Users\grodriguez\source\repos\Financiera\Financiera\obj\Debug\Financiera.FinancieraMain.resources
+C:\Users\grodriguez\source\repos\Financiera\Financiera\obj\Debug\Financiera.Login.resources
+C:\Users\grodriguez\source\repos\Financiera\Financiera\obj\Debug\Financiera.Properties.Resources.resources
+C:\Users\grodriguez\source\repos\Financiera\Financiera\obj\Debug\Financiera.csproj.GenerateResource.cache
+C:\Users\grodriguez\source\repos\Financiera\Financiera\obj\Debug\Financiera.csproj.CoreCompileInputs.cache
